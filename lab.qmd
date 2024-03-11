@@ -1,0 +1,5 @@
+---
+title: "lab"
+---
+
+This is the section where all the completed labs will be uploaded. 

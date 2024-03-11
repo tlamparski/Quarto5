@@ -4,6 +4,8 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+![Selfie](images/Selfie.jpg)
+
+# Paragraph about self
+
+I am Toni Lamparski, a senior Biology major at the University of Massachusettes. I am from Fairfield, Connecticut. I currently work at an afterschool program that is ran through the YMCA. I am taking 5 courses at the UMass and hope to graduate Spring 2024. After that, I plan to get my EMT license and work for 2 years before applying to PA school.

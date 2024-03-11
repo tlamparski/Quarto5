@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "lab",
+    "section": "",
+    "text": "This is the section where all the completed labs will be uploaded."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto5",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the home page."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This is where the work for the project will be posted."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n\n\nSelfie\n\n\n\nParagraph about self\nI am Toni Lamparski, a senior Biology major at the University of Massachusettes. I am from Fairfield, Connecticut. I currently work at an afterschool program that is ran through the YMCA. I am taking 5 courses at the UMass and hope to graduate Spring 2024. After that, I plan to get my EMT license and work for 2 years before applying to PA school."
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "This is the tab for all final information and the final presentation."
   }
 ]
